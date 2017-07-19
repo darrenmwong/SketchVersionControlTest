@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "14C02393-228B-46BC-BE7D-22264F1EB3BC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 220,
+    "width": 1175,
+    "x": 142,
+    "y": 4856
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "EB452CA5-D4F2-4D95-987E-F5DCF5FD48E6"
+    },
+    {
+      "class": "text",
+      "id": "9EF132DD-7C52-49DA-8D55-950750761D81"
+    }
+  ],
+  "name": "Cookies and Other Tracking Devices",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

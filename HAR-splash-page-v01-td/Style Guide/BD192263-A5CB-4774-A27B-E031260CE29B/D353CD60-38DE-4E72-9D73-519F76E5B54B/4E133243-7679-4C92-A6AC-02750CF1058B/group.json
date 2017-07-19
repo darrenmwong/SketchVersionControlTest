@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "4E133243-7679-4C92-A6AC-02750CF1058B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 42,
+    "width": 1172,
+    "x": 75,
+    "y": 870
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "12C3473C-5FF1-4236-9213-3E929BA22559"
+    },
+    {
+      "class": "text",
+      "id": "30AB3F34-7697-4366-8429-1C1C9D790836"
+    }
+  ],
+  "name": "Overline Mobile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3176470588235294,
+        "green": 0.1725490196078432,
+        "red": 0.07450980392156864
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7686274509803922,
+        "green": 0.7294117647058823,
+        "red": 0.7019607843137254
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9098039215686274,
+        "green": 0.8980392156862745,
+        "red": 0.8941176470588236
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3490196078431373,
+        "green": 0.6274509803921569,
+        "red": 0.8117647058823529
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      }
+    ],
+    "gradients": [
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0.5, 0}",
+        "gradientType": 0,
+        "shouldSmoothenOpacity": false,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 0.5,
+              "blue": 1,
+              "green": 1,
+              "red": 1
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 0.5,
+              "blue": 0,
+              "green": 0,
+              "red": 0
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.5, 1}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0.78875578379136291, 1}",
+        "gradientType": 0,
+        "shouldSmoothenOpacity": false,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 0.3,
+              "blue": 0.4966047309902247,
+              "green": 0.4966047309902247,
+              "red": 0.4966047309902247
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 0.6322746829710145,
+              "blue": 0.006430697278911565,
+              "green": 0.006430697278911565,
+              "red": 0.006430697278911565
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.3232394489624229, 0.24904983108108109}"
+      }
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "do_objectID": "A8A27A94-E10C-4F08-80E0-2DBAEF504456",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"projectId\":8295589,\"publicLink\":\"https://invis.io/JD8ADJGHQ\",\"hasSynced\":true,\"syncAll\":true}"
+    }
+  }
+}

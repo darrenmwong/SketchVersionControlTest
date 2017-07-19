@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "6D536D0E-2D75-4949-B15F-8F8A0F727CF5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 176,
+    "width": 1175,
+    "x": 142,
+    "y": 3352
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C5BAEE28-632A-4046-86EC-AAAE763DB0AF"
+    },
+    {
+      "class": "text",
+      "id": "40813108-23E2-4687-B544-194C40A23A6A"
+    }
+  ],
+  "name": "Information Sharing with Non-Affiliated Companies",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

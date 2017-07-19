@@ -1,0 +1,381 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": [
+        {
+          "$archiver": "NSKeyedArchiver",
+          "$objects": [
+            "$null",
+            {
+              "$class": {
+                "UID": 24
+              },
+              "NSAttributes": {
+                "UID": 3
+              },
+              "NSString": {
+                "UID": 2
+              }
+            },
+            "Contact Information: We may request and collect, without limitation, your name, address, email address, home telephone number, work telephone number, fax number and cell phone number.\n\nAdditional Information About You: We may request and collect, without limitation, information about the apartment you are leasing, including the community, mailing address, and anticipated move-in date.\n\nWhen you make inquiries concerning career opportunities, we will request a copy of your resume, your highest level of education and information about the type of job you are seeking.\n\nAdditionally, we may collect nonpublic personal information about you from the following sources:\n\t•\tInformation we receive from you on applications or other forms, such as your name, address, social security number, assets, and income; \t•\tInformation we receive from a consumer reporting agency, such as your creditworthiness and credit history; and \t•\tInformation about your transactions with us, or others, such as your payment history and parties to a transaction.\n\nWe may collect the following contact information that you provide, confirm, or update while using www.lennarmultifamily.com and/or community specific websites managed by LMC.\n\nThe services that you desire to order and your preferences regarding service information (services information).\n\nCredit card information to pay for services that are ordered (credit card information).\n\nAdditionally, in connection with the use of the Website we collect certain web analytics information, including among other information the number of visitors to the Website, session time, and browser version (technical information). Technical information is not collected in a manner in which it can be tied to a specific user, and is stored and used only on an aggregate basis. When you access the Website some of our services are provided to or through affiliated websites. Personal information that you provide to those sites may be sent to the Website in order to deliver the service. We process such information in accordance with this Policy. We will store on the computer that you use to access the Website a small file that commonly is referred to as a “cookie.” The cookie has information that enables us to recognize a specific computer that is used to visit the Website. Each vendor identified on, or accessed from, the Website has its own policies on the collection and use of technical information and the use of cookies.\n\nWhen you make inquiries concerning your current LMC community or apartment, we will also request the identity of the community where your apartment is located.\nIf you are a real estate agent locator or broker seeking information on our communities, a party interested in conducting business with Lennar Corporation, a Delaware corporation, (“Lennar”) and/or its affiliated companies (“Lennar Affiliates”) or if you contact us with land you have for sale, we will request your contact information.\nIf you wish to contact our webmaster, we will request your contact information.",
+            {
+              "$class": {
+                "UID": 23
+              },
+              "NS.keys": [
+                {
+                  "UID": 4
+                },
+                {
+                  "UID": 5
+                },
+                {
+                  "UID": 6
+                },
+                {
+                  "UID": 7
+                }
+              ],
+              "NS.objects": [
+                {
+                  "UID": 8
+                },
+                {
+                  "UID": 12
+                },
+                {
+                  "UID": 20
+                },
+                {
+                  "UID": 22
+                }
+              ]
+            },
+            "NSColor",
+            "MSAttributedStringFontAttribute",
+            "NSParagraphStyle",
+            "NSKern",
+            {
+              "$class": {
+                "UID": 11
+              },
+              "NSColorSpace": 1,
+              "NSCustomColorSpace": {
+                "UID": 9
+              },
+              "NSRGB": {
+                "data": "0.07450980392 0.1725490196 0.3176470588\u0000",
+                "type": "Buffer"
+              }
+            },
+            {
+              "$class": {
+                "UID": 10
+              },
+              "NSID": 1
+            },
+            {
+              "$classes": [
+                "NSColorSpace",
+                "NSObject"
+              ],
+              "$classname": "NSColorSpace"
+            },
+            {
+              "$classes": [
+                "NSColor",
+                "NSObject"
+              ],
+              "$classname": "NSColor"
+            },
+            {
+              "$class": {
+                "UID": 19
+              },
+              "NSFontDescriptorAttributes": {
+                "UID": 13
+              }
+            },
+            {
+              "$class": {
+                "UID": 18
+              },
+              "NS.keys": [
+                {
+                  "UID": 14
+                },
+                {
+                  "UID": 15
+                }
+              ],
+              "NS.objects": [
+                {
+                  "UID": 16
+                },
+                {
+                  "UID": 17
+                }
+              ]
+            },
+            "NSCTFontUIUsageAttribute",
+            "NSFontSizeAttribute",
+            "CTFontRegularUsage",
+            14,
+            {
+              "$classes": [
+                "NSMutableDictionary",
+                "NSDictionary",
+                "NSObject"
+              ],
+              "$classname": "NSMutableDictionary"
+            },
+            {
+              "$classes": [
+                "NSFontDescriptor",
+                "NSObject"
+              ],
+              "$classname": "NSFontDescriptor"
+            },
+            {
+              "$class": {
+                "UID": 21
+              },
+              "NSMaxLineHeight": 22,
+              "NSMinLineHeight": 22,
+              "NSTabStops": {
+                "UID": 0
+              }
+            },
+            {
+              "$classes": [
+                "NSMutableParagraphStyle",
+                "NSParagraphStyle",
+                "NSObject"
+              ],
+              "$classname": "NSMutableParagraphStyle"
+            },
+            0.5833333134651184,
+            {
+              "$classes": [
+                "NSDictionary",
+                "NSObject"
+              ],
+              "$classname": "NSDictionary"
+            },
+            {
+              "$classes": [
+                "NSAttributedString",
+                "NSObject"
+              ],
+              "$classname": "NSAttributedString"
+            }
+          ],
+          "$top": {
+            "root": {
+              "UID": 1
+            }
+          },
+          "$version": 100000
+        }
+      ]
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "9C11765F-38D4-4D0D-9424-42AB8C1287F5",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 770,
+    "width": 1100,
+    "x": 20,
+    "y": 66
+  },
+  "glyphBounds": "{{0, 0}, {7203, 767}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Contact Information:",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0951FAFF-CFBE-42F0-BC57-F5CB91DE1FC4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "FCB5883C-51C0-4DEC-A93B-0F3D25FDC0B9",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringFontAttribute": {
+          "_archive": [
+            {
+              "$archiver": "NSKeyedArchiver",
+              "$objects": [
+                "$null",
+                {
+                  "$class": {
+                    "UID": 8
+                  },
+                  "NSFontDescriptorAttributes": {
+                    "UID": 2
+                  }
+                },
+                {
+                  "$class": {
+                    "UID": 7
+                  },
+                  "NS.keys": [
+                    {
+                      "UID": 3
+                    },
+                    {
+                      "UID": 4
+                    }
+                  ],
+                  "NS.objects": [
+                    {
+                      "UID": 5
+                    },
+                    {
+                      "UID": 6
+                    }
+                  ]
+                },
+                "NSCTFontUIUsageAttribute",
+                "NSFontSizeAttribute",
+                "CTFontRegularUsage",
+                14,
+                {
+                  "$classes": [
+                    "NSMutableDictionary",
+                    "NSDictionary",
+                    "NSObject"
+                  ],
+                  "$classname": "NSMutableDictionary"
+                },
+                {
+                  "$classes": [
+                    "NSFontDescriptor",
+                    "NSObject"
+                  ],
+                  "$classname": "NSFontDescriptor"
+                }
+              ],
+              "$top": {
+                "root": {
+                  "UID": 1
+                }
+              },
+              "$version": 100000
+            }
+          ]
+        },
+        "NSColor": {
+          "_archive": [
+            {
+              "$archiver": "NSKeyedArchiver",
+              "$objects": [
+                "$null",
+                {
+                  "$class": {
+                    "UID": 4
+                  },
+                  "NSColorSpace": 1,
+                  "NSCustomColorSpace": {
+                    "UID": 2
+                  },
+                  "NSRGB": {
+                    "data": "0.07450980392 0.1725490196 0.3176470588\u0000",
+                    "type": "Buffer"
+                  }
+                },
+                {
+                  "$class": {
+                    "UID": 3
+                  },
+                  "NSID": 1
+                },
+                {
+                  "$classes": [
+                    "NSColorSpace",
+                    "NSObject"
+                  ],
+                  "$classname": "NSColorSpace"
+                },
+                {
+                  "$classes": [
+                    "NSColor",
+                    "NSObject"
+                  ],
+                  "$classname": "NSColor"
+                }
+              ],
+              "$top": {
+                "root": {
+                  "UID": 1
+                }
+              },
+              "$version": 100000
+            }
+          ]
+        },
+        "NSKern": 0.5833333,
+        "NSParagraphStyle": {
+          "_archive": [
+            {
+              "$archiver": "NSKeyedArchiver",
+              "$objects": [
+                "$null",
+                {
+                  "$class": {
+                    "UID": 2
+                  },
+                  "NSMaxLineHeight": 22,
+                  "NSMinLineHeight": 22,
+                  "NSTabStops": {
+                    "UID": 0
+                  }
+                },
+                {
+                  "$classes": [
+                    "NSMutableParagraphStyle",
+                    "NSParagraphStyle",
+                    "NSObject"
+                  ],
+                  "$classname": "NSMutableParagraphStyle"
+                }
+              ],
+              "$top": {
+                "root": {
+                  "UID": 1
+                }
+              },
+              "$version": 100000
+            }
+          ]
+        }
+      }
+    }
+  },
+  "textBehaviour": 1
+}

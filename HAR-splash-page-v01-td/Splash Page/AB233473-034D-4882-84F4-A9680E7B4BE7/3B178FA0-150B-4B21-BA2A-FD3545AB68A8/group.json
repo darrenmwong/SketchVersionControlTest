@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "3B178FA0-150B-4B21-BA2A-FD3545AB68A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 287.9999999999999,
+    "width": 758,
+    "x": -57,
+    "y": -25
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "C05AEE74-E06A-4694-8736-0F63677286C1"
+    },
+    {
+      "class": "group",
+      "id": "9DC49CBF-8868-4083-A498-CD06EE7F5CF3"
+    }
+  ],
+  "name": "Logo Lockup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

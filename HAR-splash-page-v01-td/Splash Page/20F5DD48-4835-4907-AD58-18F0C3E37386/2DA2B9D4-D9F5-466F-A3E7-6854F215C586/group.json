@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "2DA2B9D4-D9F5-466F-A3E7-6854F215C586",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 392,
+    "width": 1008,
+    "x": 20,
+    "y": 144
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "02F67D34-57DA-4B9A-8D27-C797EA98179B"
+    },
+    {
+      "class": "group",
+      "id": "8480640B-B86E-4ADD-9A7B-60A416342F8C"
+    },
+    {
+      "class": "text",
+      "id": "B23BDC42-EBE3-48B8-BD06-AF60ECF350A1"
+    },
+    {
+      "class": "text",
+      "id": "42F69A1A-F5CC-4B37-8A8B-9A732556ED7C"
+    }
+  ],
+  "name": "Lockup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

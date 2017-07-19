@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "AEDA6521-5134-4DFC-9C8E-D0B4389B11D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 104,
+    "width": 543,
+    "x": 0,
+    "y": 468
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B469EC9E-2C9E-47BE-B5A6-FC69A5A706A5"
+    },
+    {
+      "class": "text",
+      "id": "06171E49-A9CB-4E28-B9E6-D3248F17A742"
+    }
+  ],
+  "name": "H2 Desktop",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

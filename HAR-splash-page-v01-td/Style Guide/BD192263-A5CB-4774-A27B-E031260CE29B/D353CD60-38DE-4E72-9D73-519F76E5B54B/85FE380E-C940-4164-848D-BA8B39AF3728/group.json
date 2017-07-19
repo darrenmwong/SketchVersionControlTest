@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "85FE380E-C940-4164-848D-BA8B39AF3728",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 250,
+    "width": 1161,
+    "x": 28,
+    "y": 188
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "9D6BAF92-2213-42B1-ADFA-6489EDE2809B"
+    },
+    {
+      "class": "text",
+      "id": "DFEAC47A-435A-4503-8B99-0BFBD3A5F1D1"
+    }
+  ],
+  "name": "H1 Desktop",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

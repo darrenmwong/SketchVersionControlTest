@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "05B06D03-9E3A-41A7-AAE2-E098B1334165",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 41,
+    "width": 1220,
+    "x": 30,
+    "y": 1193
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "EE1C65BD-B08B-47B8-9E76-F14DF0E33AB9"
+    },
+    {
+      "class": "text",
+      "id": "F7380B78-4FBD-4E82-AD06-88A31A1AB543"
+    }
+  ],
+  "name": "H4 Mobile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

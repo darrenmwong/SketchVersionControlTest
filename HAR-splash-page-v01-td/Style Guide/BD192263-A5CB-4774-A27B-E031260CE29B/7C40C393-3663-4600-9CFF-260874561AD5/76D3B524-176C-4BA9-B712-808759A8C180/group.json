@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "76D3B524-176C-4BA9-B712-808759A8C180",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 88,
+    "width": 590,
+    "x": 1,
+    "y": 76
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C6462B67-9363-4B24-A439-E38FB2BA51E1"
+    },
+    {
+      "class": "group",
+      "id": "A2F4AD6B-2C9A-4E98-9DAC-9F0ABE2183BB"
+    },
+    {
+      "class": "text",
+      "id": "3A4D5263-67C8-4429-8775-71CC04BAEAE3"
+    }
+  ],
+  "name": "Desktop Buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

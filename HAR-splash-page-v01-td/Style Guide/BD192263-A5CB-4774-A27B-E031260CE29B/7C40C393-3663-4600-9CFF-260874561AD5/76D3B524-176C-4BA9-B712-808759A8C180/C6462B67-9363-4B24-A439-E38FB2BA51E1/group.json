@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "C6462B67-9363-4B24-A439-E38FB2BA51E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 275,
+    "x": 315,
+    "y": 38
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0D380023-B91E-42DB-845D-74E62715B862"
+    },
+    {
+      "class": "text",
+      "id": "385ABB61-D7B7-442C-A0FD-ED8E7BB3214D"
+    },
+    {
+      "class": "bitmap",
+      "id": "E1FA2C7A-4F67-43B5-AD63-FDA5BAF138FE"
+    }
+  ],
+  "name": "Button Over State",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

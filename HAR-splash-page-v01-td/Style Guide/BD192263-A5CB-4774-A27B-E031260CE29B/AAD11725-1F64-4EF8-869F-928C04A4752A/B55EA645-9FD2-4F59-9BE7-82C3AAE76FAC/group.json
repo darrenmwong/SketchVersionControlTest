@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "B55EA645-9FD2-4F59-9BE7-82C3AAE76FAC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 99,
+    "width": 410,
+    "x": 733,
+    "y": 473
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3C37D30A-E2A9-4A11-83DC-B7798841F237"
+    },
+    {
+      "class": "text",
+      "id": "C8CD1BF5-3C93-4AF9-BC35-52A0E7A24D75"
+    }
+  ],
+  "name": "H2 Mobile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

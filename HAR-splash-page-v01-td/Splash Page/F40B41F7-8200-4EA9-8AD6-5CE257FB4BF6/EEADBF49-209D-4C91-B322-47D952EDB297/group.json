@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "EEADBF49-209D-4C91-B322-47D952EDB297",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 110,
+    "width": 1175,
+    "x": 142,
+    "y": 5204
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D67CC66F-23AF-41AC-87A5-CDF3F9245C08"
+    },
+    {
+      "class": "text",
+      "id": "A433D8C8-3DDD-4C5C-9C71-FA6D06AF671D"
+    }
+  ],
+  "name": "Former Customers",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "65F5DC09-C092-4BCE-AC2A-EAE2ED6BDBB4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 527,
+    "width": 1175,
+    "x": 142,
+    "y": 3628
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "8FAE7EA8-1AF8-4FEA-8623-A8D0557964BB"
+    },
+    {
+      "class": "text",
+      "id": "D40141CC-E233-4B00-8B0B-B779BA0D0252"
+    }
+  ],
+  "name": "Your Privacy Rights Under the Fair Credit Reporting Act",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

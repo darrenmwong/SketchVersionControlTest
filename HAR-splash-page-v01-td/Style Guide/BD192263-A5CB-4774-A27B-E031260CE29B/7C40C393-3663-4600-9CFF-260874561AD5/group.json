@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "7C40C393-3663-4600-9CFF-260874561AD5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 847,
+    "width": 722,
+    "x": 80,
+    "y": 950
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "04483D21-2552-460B-8BA4-72FC863A94DB"
+    },
+    {
+      "class": "group",
+      "id": "81DAF39E-F673-4916-A376-93BEE6D900B3"
+    },
+    {
+      "class": "group",
+      "id": "B8CE662A-9E6C-42F2-94B1-CB87563300C4"
+    },
+    {
+      "class": "group",
+      "id": "76D3B524-176C-4BA9-B712-808759A8C180"
+    },
+    {
+      "class": "text",
+      "id": "E3020C2B-B430-49C4-980F-79D4954B72BC"
+    }
+  ],
+  "name": "UI Elements",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

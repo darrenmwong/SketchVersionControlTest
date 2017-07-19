@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "7110951E-F189-48B3-8FDB-C3AB1B5DE690",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 61,
+    "width": 543,
+    "x": 0,
+    "y": 829
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D413FD60-EFBF-427A-8601-CF7B73002A5C"
+    },
+    {
+      "class": "text",
+      "id": "F6497E83-405E-4B76-A658-EE194F426C3D"
+    }
+  ],
+  "name": "H4 Dektop",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
